@@ -41,3 +41,4 @@ content: https://leetcode.com/explore/challenge/card/september-leetcoding-challe
 * [ ] james
 * [ ] henry
 ```
+p.s 兩天內刷兩題，放在同個milestone (ex: 2021-09-25)
