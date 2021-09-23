@@ -7,7 +7,7 @@
 with the following example:
 
 ```
-- FirstUniqueCharacterInAString
+- [easy] 1.Two Sum
   - solution.js
   - solution.go
   - solution.php (optional)
