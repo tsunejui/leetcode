@@ -11,6 +11,9 @@ with the following example:
   - solution.js
   - solution.go
   - solution.php (optional)
+  - james.js
+  - rex.go
+  - henry.go
   - README.md
 ```
 
